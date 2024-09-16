@@ -24,5 +24,6 @@ terminal_colors:
     green: "#57ab5a"
     magenta: "#b083f0"
     red: "#f47067"
-    white: "#909dab"
+    white: "#ffffff"
+    whites: "#909dab"
     yellow: "#c69026"
